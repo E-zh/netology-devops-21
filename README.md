@@ -1,6 +1,10 @@
 # netology-devops-21
 ## Егор Желобанов DEVOPS-21
 
+### Выполнение задания №1:
+
+[Скриншоты установленных плагинов в Google Drive](https://drive.google.com/drive/folders/1NqtwmMjsFaIbzK4kk9Gz0TbzkXJbXPn3?usp=sharing)
+
 ### Выполнение задания №2:
 
 * Постановка задачи, планирование сроков выполнения. 
